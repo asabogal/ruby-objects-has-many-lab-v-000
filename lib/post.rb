@@ -7,6 +7,7 @@ class Post
   end
 
   def author_name
+    
   end
 
 end
