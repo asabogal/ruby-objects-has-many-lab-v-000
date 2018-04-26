@@ -7,7 +7,7 @@ class Post
   end
 
   def author_name
-    author_name = self.author.name
+    author_name = self.author.name if self
 
   end
 
